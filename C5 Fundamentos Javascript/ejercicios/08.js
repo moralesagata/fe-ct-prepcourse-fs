@@ -6,3 +6,4 @@ function esNumeroEntero(numero) {
 }
 
 module.exports = esNumeroEntero;
+console.log(4 > 10);
